@@ -30,7 +30,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-                Merhaba ben baran, 17 yaşındayım 11. sınıf öğrencisiyim inşaat bölümündeyim. Boş zamanlarımın çoğunu discord sunucumuz ve Hydra.M müzik botumuzla ilgilenmekle geçiriyorum bana ceşitli iletişim adreslerimden ulaşabilirsiniz
+                Merhaba ben baran, 18 yaşındayım 12. sınıf öğrencisiyim inşaat bölümündeyim. Boş zamanlarımın çoğunu discord sunucumuz ve Hydra.M müzik botumuzla ilgilenmekle geçiriyorum bana ceşitli iletişim adreslerimden ulaşabilirsiniz
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
