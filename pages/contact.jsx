@@ -20,6 +20,12 @@ export default function Home() {
                         <p className="font-semibold text-xl">@ajanbaranimo</p>
                     </div>
                 </a>
+                 <a target="_blank" rel="norefferer" href="WHATSAPP LİNK YAZ">
+                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
+                         <i className="fab fa-whatsapp fa-2x" />
+                         <p className="font-semibold text-xl">Whatsapp</p>
+                     </div>
+                 </a>
                 <a target="_blank" rel="norefferer" href="https://discord.com/users/628260878495645726">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
