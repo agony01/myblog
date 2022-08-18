@@ -20,7 +20,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">@ajanbaranimo</p>
                     </div>
                 </a>
-                 <a target="_blank" rel="norefferer" href="https://wa.me/+905372732947">
+                 <a target="_blank" rel="norefferer" href="https://api.whatsapp.com/send?phone=+905372732947">
                      <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                          <i className="fab fa-whatsapp fa-2x" />
                          <p className="font-semibold text-xl">Whatsapp</p>
