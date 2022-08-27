@@ -34,7 +34,7 @@ export default function Home() {
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="baran" src={`https://r.resimlink.com/068Uor`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="baran" src={`https://lh3.googleusercontent.com/OZwK5kYN4UBbfgZVHkgEkmN8X11VFj3h9qilO5bpMB-ylVE8L5j54-KtbPt7zinPeaxhPHI=s85`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
