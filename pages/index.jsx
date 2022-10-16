@@ -34,7 +34,7 @@ export default function Home() {
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="Rüzgar" src={`https://cdn.discordapp.com/attachments/678652755652509697/1031224290105888779/IMG-20221013-WA0009.jpg`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="Rüzgar" src={`https://cdn.discordapp.com/avatars/615029465726320654/2ec96dc36d16d258837fe17a39b5f88f.png?size=512`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
