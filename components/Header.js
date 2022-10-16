@@ -1,7 +1,7 @@
 const items = [
-    { icon: 'fab fa-spotify', link: 'https://open.spotify.com/user/315btxfzntnrr2l3mx6rplxl2ctm?si=575bf378e3414da8' },
-    { icon: 'fab fa-instagram', link: 'https://instagram.com/ajanbaranimo' },
-    { icon: 'fab fa-github', link: 'https://github.com/Baran12344' },
+    { icon: 'fab fa-spotify', link: 'https://open.spotify.com/user/xatjaetgs3f5zqzih7pna1ngi?si=63385ac8d5fc4b06' },
+    { icon: 'fab fa-instagram', link: 'https://www.instagram.com/_.ruzgar.35/' },
+    { icon: 'fab fa-github', link: 'https://github.com/agony01' },
 ]
 const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Ana Sayfa', href: '/' },
@@ -17,7 +17,7 @@ const Header = () => {
     return <>
         <div className="w-full border-b-2 border-neutral-800/20 pb-2">
             <div className="flex flex-col md:flex-row w-full items-center md:justify-between">
-                <p className="font-semibold font-Poppins text-xl">BT</p>
+                <p className="font-semibold font-Poppins text-xl">R</p>
                 <div className="flex items-center space-x-2">
                     {items.map(item => (
                         <a key={item.link} href={item.link} target="_blank" rel="noreferrer" className="flex items-center justify-center hover:bg-neutral-700/20 rounded-xl transition-all duration-150 p-2 px-3">
