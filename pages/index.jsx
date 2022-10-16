@@ -24,7 +24,7 @@ export default function Home() {
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
-                          <i className={`fa fa-circle text-online mr-2`} />Online
+                          <i className={`fa fa-circle text-online mr-2`} />Yaşıyor
                     </span>
                   </Tippy>
             
