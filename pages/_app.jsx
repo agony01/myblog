@@ -37,7 +37,7 @@ function MyApp({ Component, pageProps }) {
     });
   return (<>
     <Head>
-        <title>Baran Taban</title>
+        <title>Rüzgar</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
