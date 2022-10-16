@@ -14,28 +14,28 @@ export default function Home() {
         <p className="text-xl text-white/50 font-normal text-center mb-5">Benim ile iletişime geçebileceğiniz diğer adresler.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
-                <a target="_blank" rel="norefferer" href=" https://instagram.com/ajanbaranimo">
+                <a target="_blank" rel="norefferer" href="https://www.instagram.com/_.ruzgar.35/">
                     <div className="flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-instagram fa-2x" />
-                        <p className="font-semibold text-xl">@ajanbaranimo</p>
+                        <p className="font-semibold text-xl">@_.ruzgar.35</p>
                     </div>
                 </a>
-                 <a target="_blank" rel="norefferer" href="https://api.whatsapp.com/send?phone=905372732947">
+                 <a target="_blank" rel="norefferer" href="https://api.whatsapp.com/send?phone=5395765086">
                      <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                          <i className="fab fa-whatsapp fa-2x" />
                          <p className="font-semibold text-xl">Whatsapp</p>
                      </div>
                  </a>
-                <a target="_blank" rel="norefferer" href="https://discord.com/users/628260878495645726">
+                <a target="_blank" rel="norefferer" href="https://discord.com/users/678644139197333525">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
-                        <p className="font-semibold text-xl">menyak çocuk#1766</p>
+                        <p className="font-semibold text-xl">Tıngır#2052</p>
                     </div>
                 </a>
-                <a href="mailto:barantaban98@gmail.com">
+                <a href="mailto:agittaban@gmail.com">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
-                        <p className="font-semibold text-xl">barantaban98@gmail.com</p>
+                        <p className="font-semibold text-xl">agittaban@gmail.com</p>
                     </div>
                 </a>
             </div>
