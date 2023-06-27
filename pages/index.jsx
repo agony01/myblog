@@ -30,7 +30,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-                Merhaba ben Rüzgar, 17 yaşımdayım istanbul'da yaşıyorum makine tasarım bölümünde okuyorum.
+                Merhaba, adım Rüzgar Ağit. 17 yaşındayım ve İstanbul, Bahçelievler'de Şehit Samet Kırbaş Mesleki ve Teknik Anadolu Lisesi'nde okuyorum. Okuduğum bölüm Makine Teknolojisi ve bu alanda oldukça iyiyim. Ayrıca bir e-sporcu olarak da tanınıyorum.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
