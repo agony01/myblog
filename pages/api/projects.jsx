@@ -2,11 +2,11 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/904763470623428738/1015932314615824424/sake-black-death-smile-wallpaper-preview.jpg",
+      image: "https://cdn.discordapp.com/attachments/937770732295975033/1123259147056582727/g-letter-with-abstract-glitch-effect-vector.jpg",
       name: "DDoS music bot",
       description:
-        "Kendi discord sunucunuzda kullana bileceğiniz türkçe ve ingilizce dil destekli mükemmel müzik botu.",
-      link: "https://ddos-music.vercel.app",
+        "Çeşitli eğlencelerle dolu Discord sunucumuza hepinizi davet ediyoruz!",
+      link: "https://discord.gg/BnbasZ269c",
     },
   ];
   res.status(200).json(data);
